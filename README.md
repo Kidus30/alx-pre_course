@@ -1,6 +1,2 @@
 My first readme
-^C
-
-ls
-^c
-^C
+README update from github.com
